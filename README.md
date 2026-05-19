@@ -1,113 +1,109 @@
-<h1 align="center">Hi 👋, I'm Azmal Shah</h1>
-<h3 align="center">Aspiring Software Developer | AI & ML Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Azmal Shah</h1>
+<h3 align="center">B.Tech CSE Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+Projects+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Deep Learning, NLP, and Full Stack Development**
-- 💡 Interested in **Artificial Intelligence, Machine Learning, and Web Development**
-- 🛠️ Building projects using **Python, ML, and NLP**
-- 🎯 Goal: To become a skilled AI/ML Engineer
-- ⚡ Fun fact: I enjoy solving coding and logical reasoning problems
+- 🎓 B.Tech CSE 3rd Year Student (2023–2027)
+- 💡 Interested in **AI, Machine Learning, Full Stack Development & Computer Vision**
+- 🌱 Currently learning **Advanced MERN Stack & Deep Learning**
+- 📊 Passionate about building real-world AI-powered solutions
+- ⚡ Hacktoberfest Contributor
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,c" />
-</p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
-</p>
+### Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+### AI / ML
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111111?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Scikit-Learn
-- Pandas
-- NumPy
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Toxic Comment Classifier
-> Machine learning model that detects toxic comments using NLP techniques.
+### 🔹 AI Based Procurement Automation
+- Full-stack procurement management system
+- ML-based demand forecasting
+- Supplier quotation comparison
+- ASN-GRN reconciliation system
 
-### 🔹 Text Emotion Detection
-> AI project that predicts emotions from textual data using Natural Language Processing.
+**Tech Used:** MERN Stack, Firebase, XLSX, Nodemailer, Google OAuth
 
-### 🔹 Solar Energy Related Work
-> Worked on solar PV systems, solar panels, and renewable energy concepts.
+---
+
+### 🔹 Unstop Job Market Trend Analytics
+- Collected jobs & internship data using Unstop API
+- Built interactive dashboards and visualizations
+- Analyzed hiring trends and engagement metrics
+
+**Tech Used:** Python, Streamlit, APIs
+
+---
+
+### 🔹 Answer Script Data Extraction
+- Automated structured data extraction from scanned answer sheets
+- Used Google Document AI for OCR processing
+
+**Tech Used:** Python, YAML, Google Cloud Platform
+
+---
+
+## 🏆 Achievements
+
+- 🎉 Successfully completed **Hacktoberfest 2023**
+- 📜 Certified in **Data Analytics**
+- 📜 Completed **AI For Everyone**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=azmalshah&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
----
-
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmalshah&theme=tokyonight" alt="streak" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmalshah&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/azmal-shah-25b958215/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://github.com/azmalshah" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/azmal-shah-25b958215/)
+- 🖥️ GitHub: https://github.com/azmalshah
+- 📧 Email: azmalshah546@gmail.com
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
+<h3 align="center">⭐ Turning Ideas into Real-World AI Solutions ⭐</h3>
